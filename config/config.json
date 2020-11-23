@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "degandt",
+    "password": "allenTD2016#",
+    "database": "degandt",
+    "host": "52.86.154.61",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "degandt",
+    "password": "allenTD2016#",
+    "database": "degandt",
+    "host": "52.86.154.61",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "degandt",
+    "password": "allenTD2016#",
+    "database": "degandt",
+    "host": "52.86.154.61",
+    "dialect": "mysql"
+  }
+}

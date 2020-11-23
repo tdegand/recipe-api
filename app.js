@@ -25,8 +25,9 @@ app.use(bodyParser.json());
 
 
 //DB connection
-const sequelize = new Sequelize('degandt', 'degandt', 'allenTD2016#', {
-  host: "52.86.154.61",
+const sequelize = new Sequelize('qzriy50hhdlva6wv', 'tuaj88bf88fs6al9', 'ltkbzj2ttqrj0twz', {
+  host: "aqx5w9yc5brambgl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+  port: "3306",
   dialect: 'mysql'
 })
 

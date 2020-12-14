@@ -1,4 +1,10 @@
-# recipe-api
+# Recipe-API
+
+## Getting started
+
+* Open up your terminal
+* Run `npm install` to install dependencies
+* Run `npm start` to run the application
 
 ## Routes
 
